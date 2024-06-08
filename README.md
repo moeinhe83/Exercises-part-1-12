@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program Description ===> 12th Exercise
 
-Example ===> Write A Program That Counts The Number Of Characters In This String => name = ('maktab')
+Example ===> Write A Program That Counts The Number Of Characters In This String ===> name = ('maktab')
 
 Description Of Files:
 
