@@ -1,0 +1,25 @@
+Project Name ===> Exercises Part 1
+
+Question Number ===> 12
+
+Programming Language ===> Python
+
+Program description ===> 12th Exercise
+
+Example ===> Write a Program That Counts the Number Of Characters in This String => name = ('maktab')
+
+Description Of Files:
+
+practice_12_linux.py ===> For Linux [Ubuntu Or Kali]
+
+For Run ===> python practice_12_linux.py
+
+practice_12_windows.py ===> For Windows
+
+For Run ===> python practice_12_windows.py
+
+Required packages For Python ===> os / termcolor2 / pyfiglet
+
+termcolor2 ===> To install => pip install termcolor2
+
+pyfiglet ===> To install => pip install pyfiglet
