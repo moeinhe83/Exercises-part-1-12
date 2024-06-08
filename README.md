@@ -4,7 +4,7 @@ Question Number ===> 12
 
 Programming Language ===> Python
 
-Program description ===> 12th Exercise
+Program Description ===> 12th Exercise
 
 Example ===> Write A Program That Counts The Number Of Characters In This String => name = ('maktab')
 
